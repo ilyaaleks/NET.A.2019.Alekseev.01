@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortings", "Sortings.csproj", "{1C5BFF63-3453-451C-A5ED-3D83C9E26EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingsTests", "SortingsTests\SortingsTests.csproj", "{B04A2946-CCBD-48FF-9EE9-94E52C36AED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5BFF63-3453-451C-A5ED-3D83C9E26EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5BFF63-3453-451C-A5ED-3D83C9E26EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5BFF63-3453-451C-A5ED-3D83C9E26EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5BFF63-3453-451C-A5ED-3D83C9E26EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04A2946-CCBD-48FF-9EE9-94E52C36AED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04A2946-CCBD-48FF-9EE9-94E52C36AED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04A2946-CCBD-48FF-9EE9-94E52C36AED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04A2946-CCBD-48FF-9EE9-94E52C36AED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD20CAF7-5F20-473E-93E1-3FC23C5E2911}
+	EndGlobalSection
+EndGlobal
